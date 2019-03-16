@@ -1,5 +1,4 @@
-
-　  ## 从前，总是那么慢、那么美。
+## 从前，总是那么慢、那么美。
 
 　  　——还记得，曾经的我们，青葱年少。
 
@@ -45,7 +44,9 @@
 
 <br/>
 
-　 ###  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   —— Our Story Begins.
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   —— Our Story Begins.
+
+<br/>
      
 -------------------------------------------------------------------------
 
